@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+__pycache__/
+.venv/
+*.log
+
+# renders and work-in-progress stills
+out/
+
+# The song and anything it can be played back from are not redistributable:
+# supply the track yourself and rebuild these with analysis/analyze.py (see README)
+audio/
+analysis/stems/
+data/wave.bin
