@@ -1,12 +1,12 @@
 # EVANGELION — "Neon Overdrive": music video
 
-A generative, code-rendered music video for "Neon Overdrive" (mroneilovealot), styled as the NERV HQ command terminal from Evangelion: 16 plates, one HUD instrument per section, every instrument a real sound visualizer (waveform scopes, spectrum analysers, beat-grid countdowns, clap alarms). Every frame is a deterministic function of song time, so the browser preview and the offline 1080p60 / 4K60 export are identical. Built on Giacomo Magnanini's engine from the [P(doom) video](https://github.com/mexicat/pdoom-video), by way of the Lithium video.
+A generative, code-rendered music video for ["Neon Overdrive"](https://pixabay.com/music/synthwave-neon-overdrive-cyberpunk-gaming-edm-415723/) (mroneilovealot), styled as the NERV HQ command terminal from Evangelion: 16 plates, one HUD instrument per section, every instrument a real sound visualizer (waveform scopes, spectrum analysers, beat-grid countdowns, clap alarms). Every frame is a deterministic function of song time, so the browser preview and the offline 1080p60 / 4K60 export are identical. Built on Giacomo Magnanini's engine from the [P(doom) video](https://github.com/mexicat/pdoom-video), by way of the Lithium video.
 
 Concept, style bible and plate briefs: [`docs/TREATMENT.md`](docs/TREATMENT.md). Engine and scene API: [`docs/ENGINE.md`](docs/ENGINE.md). The shared NERV UI kit: `app/src/scenes/_eva.ts`.
 
 ## Audio
 
-The song is not in this repo. You need your own copy of "Neon Overdrive" by mroneilovealot. The analysis data is included (`data/audio.json` has beats, sections, onsets and envelopes; `data/spectrum.bin` has mel and chroma frames). The raw waveform `data/wave.bin` is not included, because it is a playable copy of the track. `analyze.py` rebuilds it, and the scopes stay flat until you do.
+The song is not in this repo. Download "Neon Overdrive" by mroneilovealot for free from [Pixabay](https://pixabay.com/music/synthwave-neon-overdrive-cyberpunk-gaming-edm-415723/). Its license covers using it in videos but not re-hosting the file. The analysis data is included (`data/audio.json` has beats, sections, onsets and envelopes; `data/spectrum.bin` has mel and chroma frames). The raw waveform `data/wave.bin` is not included, because it is a playable copy of the track. `analyze.py` rebuilds it, and the scopes stay flat until you do.
 
 Save the track as `audio/evangelion.m4a` (preview) and `audio/evangelion.wav` (analysis and export audio), then rebuild the analysis:
 
@@ -43,4 +43,4 @@ Code: MIT (see [LICENSE](LICENSE)). This is a copy of Giacomo Magnanini's [pdoom
 
 Fonts are under the SIL Open Font License 1.1 (Archivo, Cormorant Garamond, IBM Plex Mono, EMS stroke fonts). The Hershey stroke fonts carry their own license, which is embedded in each SVG. Each font keeps its license text in its own metadata.
 
-The music is not included and not covered by this license. Evangelion and NERV are trademarks of their owners. This is a fan-made homage that borrows the genre's UI language, not its logos or footage.
+The music is not included and not covered by this license. It is under the Pixabay Content License. Evangelion and NERV are trademarks of their owners. This is a fan-made homage that borrows the genre's UI language, not its logos or footage.
